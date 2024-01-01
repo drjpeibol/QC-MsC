@@ -17,16 +17,16 @@ Para ello, vamos a realizar las operaciones que se han aprendido hasta el moment
 
 Considere las siguientes matrices:
 
-- $A = \begin{bmatrix} 9i & 2+i & 6-2i \\ -2+i & 4i & -7+7i \\ -6-2i & 7+7i & -2i \end{bmatrix}$
+$A = \begin{bmatrix} 9i & 2+i & 6-2i \\ -2+i & 4i & -7+7i \\ -6-2i & 7+7i & -2i \end{bmatrix}$
 
-- $B = \begin{bmatrix} 1+i & 1+2i & 1+3i \\ 2+i & 2+2i & 2+3i \\ 3+i & 3+2i & 3+3i \end{bmatrix}$
+$B = \begin{bmatrix} 1+i & 1+2i & 1+3i \\ 2+i & 2+2i & 2+3i \\ 3+i & 3+2i & 3+3i \end{bmatrix}$
 
-- $C = \begin{bmatrix} 2i & 1+i & 4+i & -2i 
+$C = \begin{bmatrix} 2i & 1+i & 4+i & -2i 
                  \\ -1+i & 3i & 4+7i & 1-i 
                  \\ -4+i & -4+7i & -9i & 3-4i 
                  \\ 2i & -1+i & -3-4i & -5i \end{bmatrix}$
 
-- $D = \begin{bmatrix} i & 0 \\ 0 & 3-5i \end{bmatrix}$
+$D = \begin{bmatrix} i & 0 \\ 0 & 3-5i \end{bmatrix}$
 
 ### <a id='toc1_3_2_'></a>[Resultados a Obtener](#toc0_)
 
